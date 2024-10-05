@@ -1,7 +1,7 @@
 # SawitPRO Technical Test
 
 ## Demo
-WIP
+[Watch Demo](https://github.com/danlniel/SawitPRO_technical_test/raw/refs/heads/main/Demo.mov)
 
 ## Overview
 This project is built using the MVVM-C (Model-View-ViewModel-Coordinator) architecture, integrating Firebase as a core backend service. The project demonstrates a simple yet scalable implementation that balances separation of concerns, testability, and maintainability.
@@ -9,18 +9,13 @@ This project is built using the MVVM-C (Model-View-ViewModel-Coordinator) archit
 ## Setup Instructions
 To get the project running locally, follow these steps:
 
-- Resolve Firebase dependency using Swift Package Manager (SPM):
+### Resolve Firebase dependency using Swift Package Manager (SPM):
 
-Open the project in Xcode.
-Go to File > Add Packages...
-Enter the following URL for the Firebase SPM:
-https://github.com/firebase/firebase-ios-sdk
-Select the required Firebase modules (e.g., Firestore).
-Run the project:
-
-Select the main scheme in Xcode.
-Build and run the project on your simulator or device.
-You're all set!
+- Open the project in Xcode.
+- Go to File > Add Packages...
+- Enter the following URL for the Firebase SPM: https://github.com/firebase/firebase-ios-sdk
+- Select the required Firebase modules (e.g., Firestore).
+- Run the project
 
 ## Architecture Overview
 This project follows the MVVM-C architecture, which consists of:
