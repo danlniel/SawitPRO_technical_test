@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "619BC6E8-A287-4D95-B430-B2D585760FD9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB7B277F-3813-4246-9804-CB6F1CCFE602"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SawitPRO_tech_test/Module/Home/View/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "delete(at:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BB7B277F-3813-4246-9804-CB6F1CCFE602 - 1dd8c67ae5ffc090"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SawitPRO_tech_test.HomeView.createSnackbar(result: SawitPRO_tech_test.SaveResult) -&gt; some"
+                  moduleName = "SawitPRO_tech_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielsunarjo/Documents/Personal%20Projects/SawitPRO_tech_test/SawitPRO_tech_test/Module/Home/View/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "BB7B277F-3813-4246-9804-CB6F1CCFE602 - 4f8c9bf73f5f53be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SawitPRO_tech_test.HomeView.delete(at: Foundation.IndexSet) -&gt; ()"
+                  moduleName = "SawitPRO_tech_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielsunarjo/Documents/Personal%20Projects/SawitPRO_tech_test/SawitPRO_tech_test/Module/Home/View/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "688">
+               </Location>
+               <Location
+                  uuid = "BB7B277F-3813-4246-9804-CB6F1CCFE602 - 4f8c9bf73f5f525f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SawitPRO_tech_test.HomeView.delete(at: Foundation.IndexSet) -&gt; ()"
+                  moduleName = "SawitPRO_tech_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielsunarjo/Documents/Personal%20Projects/SawitPRO_tech_test/SawitPRO_tech_test/Module/Home/View/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "688">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34798ADA-FE40-4969-84FD-87D6F37327D9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SawitPRO_tech_test/Module/Home/View/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "delete(at:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "34798ADA-FE40-4969-84FD-87D6F37327D9 - 4f8c9bf73f5f52b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SawitPRO_tech_test.HomeView.delete(at: Foundation.IndexSet) -&gt; ()"
+                  moduleName = "SawitPRO_tech_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielsunarjo/Documents/Personal%20Projects/SawitPRO_tech_test/SawitPRO_tech_test/Module/Home/View/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "34798ADA-FE40-4969-84FD-87D6F37327D9 - 4f8c9bf73f5f52b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SawitPRO_tech_test.HomeView.delete(at: Foundation.IndexSet) -&gt; ()"
+                  moduleName = "SawitPRO_tech_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielsunarjo/Documents/Personal%20Projects/SawitPRO_tech_test/SawitPRO_tech_test/Module/Home/View/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A955919-34CA-4D2F-B12F-CCDED1429B4A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SawitPRO_tech_test/Module/Login/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "login(successCompletion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "102FB212-4393-460C-A3BE-8D8D6100B49D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SawitPRO_tech_test/Module/Login/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "login(successCompletion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F02295A6-2EC6-420B-A864-31864403E9FE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SawitPRO_tech_test/Module/Login/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "login(successCompletion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F02295A6-2EC6-420B-A864-31864403E9FE - a67fa265574d6aac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;SawitPRO_tech_test.UserData&gt;) -&gt; () in SawitPRO_tech_test.LoginViewModel.login(successCompletion: () -&gt; ()) -&gt; ()"
+                  moduleName = "SawitPRO_tech_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielsunarjo/Documents/Personal%20Projects/SawitPRO_tech_test/SawitPRO_tech_test/Module/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "F02295A6-2EC6-420B-A864-31864403E9FE - 9f31291e66f876d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in closure #2 (Swift.Array&lt;SawitPRO_tech_test.UserData&gt;) -&gt; () in SawitPRO_tech_test.LoginViewModel.login(successCompletion: () -&gt; ()) -&gt; ()"
+                  moduleName = "SawitPRO_tech_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielsunarjo/Documents/Personal%20Projects/SawitPRO_tech_test/SawitPRO_tech_test/Module/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
